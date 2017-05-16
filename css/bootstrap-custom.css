@@ -1,0 +1,17 @@
+@media (min-width: 1200px) {
+  .container {
+    width: 98%;
+  }
+}
+.jumbotron {
+    padding: 10px;
+}
+.container .jumbotron,
+.container-fluid .jumbotron {
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 6px;
+}
+table {
+  background: #fff;
+}
